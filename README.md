@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dodadak</h1>
+![codeup]("https://media.discordapp.net/attachments/962872308362510396/1285524482009862165/codeup.png?ex=66ea9578&is=66e943f8&hm=56b18d8e2522aa75f1acc80b3577611485aa19903bb2758e206fb229a451c8d5&=&format=webp&quality=lossless&width=310&height=437")
 <h3 align="center">There is no useless invention in the world</h3>
 
 <h3 align="left">Connect with me:</h3>
