@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dodadak</h1>
-<h3 align="center">There is no useless invention in the world</h3>
+
+<h2 align="center">🥇I have competition experience in programming contests🥇</h2>
+<div align="center">
+  <h3 align="center">2024 CO-SHOW - 한국연구재단 이사장상</h3>
+  <h3 align="center">2023 에듀테크&AI 온라인 해커톤 - 창의우수상</h3>
+</div>
 
 <h1 align="center">📜My programming language</h1>
 <h3 align="center">🎇My major🎇</h3>
@@ -7,6 +12,7 @@
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </div>
+
 <h3 align="center">✨The thing I'm good at✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -18,6 +24,7 @@
   <img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 </div>
+
 <h3 align="center">🔎A thing that I'm okay with🔎</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-C00000?style=for-the-badge&logo=OpenJDK&logoColor=white">
