@@ -2,8 +2,8 @@
 
 <h2 align="center">🥇I have competition experience in programming contests🥇</h2>
 <div align="center">
-  <h3 align="center">2024 CO-SHOW - 한국연구재단 이사장상</h3>
   <h3 align="center">2023 에듀테크&AI 온라인 해커톤 - 창의우수상</h3>
+  <h3 align="center">2024 CO-SHOW - 한국연구재단 이사장상</h3>
 </div>
 
 <h1 align="center">📜My programming language</h1>
@@ -39,4 +39,13 @@
   <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+</div>
+
+<h3 align="center">📚Other subjects I'm studying📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
