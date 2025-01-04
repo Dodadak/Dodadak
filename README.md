@@ -2,6 +2,11 @@
 <h3 align="center">There is no useless invention in the world</h3>
 
 <h1 align="center">📜My programming language</h1>
+<h3 align="center">🎇My major🎇</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</div>
 <h3 align="center">✨The thing I'm good at✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
