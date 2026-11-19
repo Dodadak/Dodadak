@@ -1,106 +1,82 @@
 <div align="center">
 
-<p><code>roan@dev:~$ whoami</code></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:38BDF8&height=220&section=header&text=ROAN&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Exploring%20AI.%20Building%20what%20comes%20next.&descAlignY=60&descSize=17" alt="Roan — Exploring AI. Building what comes next." />
 
-<h1>Roan</h1>
+<a href="#about">About</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#tech-stack">Tech Stack</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#achievements">Achievements</a>
 
-<h3>Turning curiosity into code.</h3>
+<br><br>
 
-<p>
-  Exploring machine learning.<br>
-  Building across the stack.
-</p>
+<samp>Curiosity drives me. Code lets me explore.</samp>
 
-<img src="https://img.shields.io/badge/FOCUS-Artificial_Intelligence-111827?style=flat-square" alt="Focus: Artificial Intelligence" />
-<img src="https://img.shields.io/badge/APPROACH-Learn_by_Building-111827?style=flat-square" alt="Approach: Learn by Building" />
+<br><br>
 
 </div>
 
-<br>
+<h2 id="about">01 / About</h2>
 
-```python
-class Roan:
-    focus = ["Machine Learning", "Deep Learning"]
-    toolkit = ["Python", "PyTorch", "TensorFlow"]
+I'm **Roan**, a developer exploring **machine learning and deep learning**.
 
-    def build(self, idea):
-        while True:
-            result = self.experiment(idea)
-            yield result
-            idea = self.refine(result)
-```
+I turn what I learn into projects, experiment with different technologies,
+and put my skills to the test through hackathons and competitions.
 
 <br>
 
-## `/about`
+<h2 id="tech-stack">02 / Tech Stack</h2>
 
-I'm a developer focused on AI, with interests spanning systems,
-web development, and the tools that bring ideas to life.
+<div align="center">
 
-I learn by building, experimenting, and working through challenges—
-including hackathons and programming competitions.
+<h3>AI & Deep Learning</h3>
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="Python, PyTorch, TensorFlow" />
 
-## `/stack`
+<br><br>
 
-**At the core**
+<h3>My Everyday Toolkit</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,r,nodejs,ruby&theme=dark" alt="C, C++, R, Node.js, Ruby" />
 
-**Also in my toolkit**
-
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
-</p>
+<br><br>
 
 <details>
-<summary>Expand the rest of the stack</summary>
+<summary>Other technologies I've worked with</summary>
 
 <br>
 
-| Area | Technologies |
-| :--- | :--- |
-| Languages | Java · JavaScript · TypeScript · Go · Rust · PHP |
-| Frontend | React · Svelte · HTML · CSS |
-| Currently exploring | Linux · Kali Linux · Docker · Android Studio · SQLite |
+<img src="https://skillicons.dev/icons?i=java,js,ts,go,rust,php&theme=dark" alt="Java, JavaScript, TypeScript, Go, Rust, PHP" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,svelte,html,css&theme=dark" alt="React, Svelte, HTML, CSS" />
+
+<br><br>
 
 </details>
 
-<br>
+<h3>Currently Exploring</h3>
 
-## `/achievements`
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,androidstudio,sqlite&theme=dark" alt="Linux, Kali Linux, Docker, Android Studio, SQLite" />
 
-```text
-2024  ›  CO-SHOW
-         National Research Foundation of Korea Chairman’s Award
+</div>
 
-2023  ›  EdTech & AI Online Hackathon
-         Creative Excellence Award
-```
+<br><br>
 
-<br>
+<h2 id="achievements">03 / Achievements</h2>
 
-## `/learning`
+| Year | Competition | Award |
+| :---: | :--- | :--- |
+| **2024** | CO-SHOW | National Research Foundation of Korea Chairman’s Award |
+| **2023** | EdTech & AI Online Hackathon | Creative Excellence Award |
 
-Beyond models and notebooks, I'm exploring the environments
-and tools around software: Linux, containers, mobile development,
-and databases.
-
-There's always another layer to understand—and another idea to build.
-
-<br>
-
----
+<br><br>
 
 <div align="center">
-  <code>learn → build → debug → repeat</code>
+
+<samp>Learn something. Build something. Make it better.</samp>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:38BDF8&height=110&section=footer" alt="" />
+
 </div>
