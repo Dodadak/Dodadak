@@ -1,47 +1,58 @@
 <div align="center">
 
-<h1>Hi, I'm Roan 👋</h1>
+<p><code>roan@dev:~$ whoami</code></p>
 
-<p><strong>Exploring AI. Building ideas with code.</strong></p>
+<h1>Roan</h1>
 
-<p>AI · Machine Learning · Software Development</p>
+<h3>Turning curiosity into code.</h3>
 
-<a href="#achievements">Achievements</a> ·
-<a href="#tech-stack">Tech Stack</a> ·
-<a href="#currently-exploring">Currently Exploring</a>
+<p>
+  Exploring machine learning.<br>
+  Building across the stack.
+</p>
+
+<img src="https://img.shields.io/badge/FOCUS-Artificial_Intelligence-111827?style=flat-square" alt="Focus: Artificial Intelligence" />
+<img src="https://img.shields.io/badge/APPROACH-Learn_by_Building-111827?style=flat-square" alt="Approach: Learn by Building" />
 
 </div>
 
 <br>
 
-## About Me
+```python
+class Roan:
+    focus = ["Machine Learning", "Deep Learning"]
+    toolkit = ["Python", "PyTorch", "TensorFlow"]
 
-I focus on machine learning and deep learning, turning ideas into working projects with a variety of languages and tools.
-
-Through hackathons and competitions, I've gained experience applying what I learn to practical challenges.
-
-<br>
-
-<h2 id="achievements">🏆 Achievements</h2>
-
-| Year | Competition | Award |
-| :---: | --- | --- |
-| 2024 | CO-SHOW | National Research Foundation of Korea Chairman’s Award |
-| 2023 | EdTech & AI Online Hackathon | Creative Excellence Award |
+    def build(self, idea):
+        while True:
+            result = self.experiment(idea)
+            yield result
+            idea = self.refine(result)
+```
 
 <br>
 
-<h2 id="tech-stack">🛠 Tech Stack</h2>
+## `/about`
 
-### Main Focus
+I'm a developer focused on AI, with interests spanning systems,
+web development, and the tools that bring ideas to life.
+
+I learn by building, experimenting, and working through challenges—
+including hackathons and programming competitions.
+
+<br>
+
+## `/stack`
+
+**At the core**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
-### Comfortable With
+**Also in my toolkit**
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
@@ -52,50 +63,44 @@ Through hackathons and competitions, I've gained experience applying what I lear
 </p>
 
 <details>
-<summary><strong>More Technologies I've Worked With</strong></summary>
+<summary>Expand the rest of the stack</summary>
 
 <br>
 
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Java-C00000?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS" />
-</p>
+| Area | Technologies |
+| :--- | :--- |
+| Languages | Java · JavaScript · TypeScript · Go · Rust · PHP |
+| Frontend | React · Svelte · HTML · CSS |
+| Currently exploring | Linux · Kali Linux · Docker · Android Studio · SQLite |
 
 </details>
 
 <br>
 
-<h2 id="currently-exploring">🌱 Currently Exploring</h2>
+## `/achievements`
 
-I'm expanding my toolkit across development environments, containers, mobile development, and databases.
+```text
+2024  ›  CO-SHOW
+         National Research Foundation of Korea Chairman’s Award
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
+2023  ›  EdTech & AI Online Hackathon
+         Creative Excellence Award
+```
+
+<br>
+
+## `/learning`
+
+Beyond models and notebooks, I'm exploring the environments
+and tools around software: Linux, containers, mobile development,
+and databases.
+
+There's always another layer to understand—and another idea to build.
 
 <br>
 
 ---
 
 <div align="center">
-  <sub>Always learning. Always building.</sub>
+  <code>learn → build → debug → repeat</code>
 </div>
