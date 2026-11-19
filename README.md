@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/roan-banner.png" alt="Roan — Exploring Ai. Building what comes next." />
+<img width="100%" src="./roan-banner.png" alt="Roan — Exploring Ai. Building what comes next." />
 
 <br><br>
 
